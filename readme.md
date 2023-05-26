@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flaskify<br>👯 I’m looking to collaborate on MERN Stack<br>🤝 I’m looking to get an Internship<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about A passionate Full Stack Developer from India<br>⚡ Fun fact  NASA’s reusable space shuttle in the 1970s had less code than our phones today.
+🔭 I’m currently working on Flaskify<br>👯 I’m looking to collaborate on MERN Stack<br>🤝 I’m looking to get an Internship<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact  NASA’s reusable space shuttle in the 1970s had less code than our phones today.
 
 
 ## 🌐 Socials:
