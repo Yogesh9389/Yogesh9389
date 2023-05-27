@@ -1,6 +1,6 @@
-![UI Developer](https://github.com/Yogesh9389/Yogesh9389/assets/125749946/21ea692e-cf46-480d-b3ba-7fd6749de80b)
-# I'm Yogesh Pal Parmar, a passionate developer and avid explorer of the digital realm. I'm thrilled to share my journey through code and projects with the GitHub community.<br><br> With a strong foundation in programming languages like Java/C++/c/Data Structure, I love creating innovative solutions to solve real-world problems. From crafting elegant algorithms to building robust applications, I'm driven by the desire to make a positive impact with my code.
 
+# I'm Yogesh Pal Parmar, a passionate developer and avid explorer of the digital realm. I'm thrilled to share my journey through code and projects with the GitHub community.<br><br> With a strong foundation in programming languages like Java/C++/c/Data Structure, I love creating innovative solutions to solve real-world problems. From crafting elegant algorithms to building robust applications, I'm driven by the desire to make a positive impact with my code.
+![UI Developer](https://github.com/Yogesh9389/Yogesh9389/assets/125749946/21ea692e-cf46-480d-b3ba-7fd6749de80b)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogeshparmar5859) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yogesh-pal-parmar-11a191206/) 
