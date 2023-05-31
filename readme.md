@@ -1,5 +1,6 @@
 
-# I'm Yogesh Pal Parmar, a passionate developer and avid explorer of the digital realm. I'm thrilled to share my journey through code and projects with the GitHub community.<br><br>
+# Hello I'm Yogesh Pal Parmar, 
+A passionate developer and avid explorer of the digital realm. I'm thrilled to share my journey through code and projects with the GitHub community.<br><br>
 ![UI Developer](https://github.com/Yogesh9389/Yogesh9389/assets/125749946/21ea692e-cf46-480d-b3ba-7fd6749de80b)
 
 ## 🌐 Socials:
