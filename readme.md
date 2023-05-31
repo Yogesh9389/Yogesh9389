@@ -12,7 +12,7 @@ A passionate developer and avid explorer of the digital realm. I'm thrilled to s
 ![200w](https://github.com/Yogesh9389/Yogesh9389/assets/125749946/f1de72e3-fb2e-4592-887d-cea5ba2b0e91)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yogesh9389&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Yogesh9389&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh9389&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
